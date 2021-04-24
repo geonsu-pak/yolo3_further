@@ -62,7 +62,7 @@ And then, the center grid has 8(=5 + 3classes) x 2 output labels as below.
 
 **Which anchor box takes in charge of a woman?**
 > Anchor box 1 should be assigned to a woman in terms of shape (= long height)
-> The similar shape is mesured by IoU below
+> The similar shape is measured by IoU below
 
 ## Intersection over Union
 YOLO_IOU_LOSS_THRESH  
