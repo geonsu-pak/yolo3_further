@@ -44,7 +44,7 @@ As a result, the output labels for each grid cell are as below:
    * 2 car
    * 3 motocycle
 
-So, all grid cells output size should be 3 x 3 x 8(= 5 + 3 classes) in this example.
+So, all grid cells output size should be 3 x 3 x 8(= 5 + 3 classes) in this example.  
 In case of coco dataset, its size should be 3 x 3 x 85(= 5 + 80 classes)
 
 ## Anchor Box
