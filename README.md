@@ -23,7 +23,7 @@ YOLO_STRIDES
 
 ### let's be simple with 3 x 3 grid cells
 
-Two cars(Ground Truth in red) in the below image.  
+A truck and a car(Ground Truth in red) in the below image.  
 ![xxx](grid_cell.jpeg)
 
 Each grid will have the following label(=Y) for training.   
