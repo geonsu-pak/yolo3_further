@@ -115,7 +115,8 @@ That is what non-max suppression does in 3 steps:
 2. Pick the box with the hightest Pc output as a prediction.
 3. Discard any remaining box with IoU greater than or equal to YOLO_IOU_LOSS_THRESH
 
-Final prediction
+Result:
+
 ![xxxx](after_nms.jpeg)
 
 ## Yolo Predict
