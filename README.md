@@ -52,7 +52,7 @@ YOLO_ANCHORS.
 > makes it possible for the YOLO algorithm to detect multiple objects centered in one grid cell.
 
 The center grid [1, 1] has the centers of both a woman and a car.  
-![xxxx](car-persion.jpeg)
+![xxxx](car-person.jpeg)
 
 So, define two anchors for each object.  
 ![xxxx](anchor_box.jpeg)
