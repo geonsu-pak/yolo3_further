@@ -50,6 +50,8 @@ In case of coco dataset, its size should be 3 x 3 x 85(= 5 + 80 classes)
 ## Anchor Box
 YOLO_ANCHORS. 
 > makes it possible for the YOLO algorithm to detect multiple objects centered in one grid cell.
+> anchor box sizes affect object the training according to its IOU with annotation.
+> you can customize its size with https://github.com/AlexeyAB/darknet/blob/master/scripts/gen_anchors.py
 
 The center grid [1, 1] has the centers of both a woman and a car.  
 ![xxxx](car-person.jpeg)
